@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -11,5 +11,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+{% if page.comments != false %}
+  {% include disqus.html %}
+{% endif %}
 
 </article>
