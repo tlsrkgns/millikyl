@@ -6,4 +6,4 @@ permalink: /about/
 Shin jae hoon.
 <br>
 
-Work at NHN_ent.
+Work for NHN_ent.
