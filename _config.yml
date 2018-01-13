@@ -18,3 +18,4 @@ github_username:  tlsrkgns
 
 # Build settings
 markdown: kramdown
+encoding: UTF-8
