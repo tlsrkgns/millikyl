@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-NHN_ent
+Shin jae hoon.
+Work at NHN_ent.
