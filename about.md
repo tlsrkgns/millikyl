@@ -1,8 +1,8 @@
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
 ---
 layout: page
 title: About
 permalink: /about/
+r:bom|utf-8
 ---
 Shin jae hoon.¤¾
 <br>
