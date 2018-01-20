@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Base Camp Day 3"
+date:   2017-01-27 14:23
+categories: jekyll update
+---
+I can't see the road ahead.
+I thought I should work harder.
