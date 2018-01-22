@@ -19,20 +19,20 @@ categories: jekyll update
 <br>
 강의를 들으면서 필기한 내용들을 적어보면
 ##HTTP
-*application 프로토콜
-*TCP 위 프로토콜
-*WWW
+* application 프로토콜
+* TCP 위 프로토콜
+* WWW
 *	URL / HTTP / HTML
 *	위치/ 접근 / 기술
-*nc - netcat
-*POST - 서버에 입력데이터 전송, HTML폼 사용으로 많이씀
-*curl - 커맨드 브라우저
-*REST api - ?
-*3xx:리다이렉션 - 웹에서 인증할때 많이씀
-*4xx - 유저잘못
-*5xx - 서버쪽 잘못
-*http 프로토콜은 전에 정보는 모른다
-*인증은 쿠키/세션을 통해
-*서버가 Set-Cookie 를 보내줌
-*-> 다음부터 브라우저는 쿠키를 달고 서버접근
-*HTTPS - 암호화
+* nc - netcat
+* POST - 서버에 입력데이터 전송, HTML폼 사용으로 많이씀
+* curl - 커맨드 브라우저
+* REST api - ?
+* 3xx:리다이렉션 - 웹에서 인증할때 많이씀
+* 4xx - 유저잘못
+* 5xx - 서버쪽 잘못
+* http 프로토콜은 전에 정보는 모른다
+* 인증은 쿠키/세션을 통해
+* 서버가 Set-Cookie 를 보내줌
+* -> 다음부터 브라우저는 쿠키를 달고 서버접근
+* HTTPS - 암호화
