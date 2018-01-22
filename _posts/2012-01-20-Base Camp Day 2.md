@@ -14,6 +14,6 @@ categories: jekyll update
 * vi
 * 스프링
 * JavaScript
-<br/>
+<br/><br/>
 여러가지를 배웠지만 하나하나 배우려면 몇년동안 고생해도 부족할 것을 일주일동안 수박 겉핥기도 안되는 분량을 봤다.
 
