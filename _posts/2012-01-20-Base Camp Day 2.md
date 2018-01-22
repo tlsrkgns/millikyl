@@ -18,6 +18,7 @@ categories: jekyll update
 여러가지를 배웠지만 하나하나 배우려면 몇년동안 고생해도 부족할 것을 일주일동안 수박 겉핥기도 안되는 분량을 봤다.
 <br>
 강의를 들으면서 필기한 내용들을 적어보면
+<br>
 HTTP
 * application 프로토콜
 * TCP 위 프로토콜
@@ -37,6 +38,7 @@ HTTP
 * -> 다음부터 브라우저는 쿠키를 달고 서버접근
 * HTTPS - 암호화
 <br>
+<br>
 HTML/CSS
 * semantic: 의미가 있는 div친구들
 * id 는 페이지당 하나 #
@@ -48,7 +50,8 @@ HTML/CSS
 * height 100%은 부모기준
 * webpack 프론트개발자가 많이씀
 * 지원되는 CSS속성인지 MDN 홈페이지가서 확인해보고 쓸 것
+<br><br>
 javascript
 * 'use strict'; - 호환성을 위해 위에 써준다
-<br>
+<br><br>
 필기가 부족했던 부분들은 따로 글을 써볼 예정이다.
