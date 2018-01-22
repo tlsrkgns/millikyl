@@ -2,7 +2,6 @@
 layout: post
 title:  "Base Camp Day 2"
 date:   2017-01-20 14:04
-categories: jekyll update
 ---
 일주일 동안 강의를 들으면서 새로 배우는 것들이 정말 많았다.
 <br>
