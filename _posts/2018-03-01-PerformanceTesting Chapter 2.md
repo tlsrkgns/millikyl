@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "PerformanceTesting Chapter 1"
-date:   2018-03-01 16:04
+title:  "PerformanceTesting Chapter 2"
+date:   2018-03-01 17:04
 ---
 ## 1.성능 테스트 소개
 
